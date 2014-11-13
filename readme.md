@@ -1,1 +1,2 @@
-test for other program
+testing commit count for gitRacer app.
+
